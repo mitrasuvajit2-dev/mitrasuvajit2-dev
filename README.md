@@ -1,16 +1,80 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**mitrasuvajit2-dev/mitrasuvajit2-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Suvajit Mitra 👋
 
-Here are some ideas to get you started:
+### Aspiring Software Developer | Python • HTML • C | Passionate Coder
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.linkedin.com/in/suvajit-mitra-24557b428">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://www.instagram.com/myself_suva_2007">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  <a href="https://www.facebook.com/share/1D4QsdTh4N/">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  </a>
+</p>
+
+</div>
+
+---
+
+## About Me
+
+I'm an aspiring developer who enjoys solving problems through code and building projects that help me learn and grow. I'm always exploring new technologies and improving my programming skills.
+
+- 💻 I love coding and creating useful projects.
+- 🌱 Currently expanding my development skills.
+- 🤝 Open to collaborating on interesting projects.
+- 🚀 Always curious to learn something new.
+
+---
+
+## Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,html,c"/>
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+</p>
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=mitrasuvajit2-dev&theme=tokyonight&hide_border=true" height="180" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mitrasuvajit2-dev&theme=tokyonight" width="100%" alt="Profile Summary"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mitrasuvajit2-dev&theme=tokyonight" width="49%" alt="Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mitrasuvajit2-dev&theme=tokyonight" width="49%" alt="Most Commit Language"/>
+</p>
+
+---
+
+
+## Connect With Me
+
+- **LinkedIn:** <https://www.linkedin.com/in/suvajit-mitra-24557b428>
+- **Instagram:** <https://www.instagram.com/myself_suva_2007>
+- **Facebook:** <https://www.facebook.com/share/1D4QsdTh4N/>
+
+---
+
+<div align="center">
+
+### "Code. Learn. Build. Repeat."
+
+</div>
