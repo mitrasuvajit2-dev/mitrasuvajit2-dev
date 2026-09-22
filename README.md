@@ -68,8 +68,6 @@ I'm an aspiring developer who enjoys solving problems through code and building 
 ## Connect With Me
 
 - **LinkedIn:** <https://www.linkedin.com/in/suvajit-mitra-24557b428>
-- **Instagram:** <https://www.instagram.com/myself_suva_2007>
-- **Facebook:** <https://www.facebook.com/share/1D4QsdTh4N/>
 
 ---
 
