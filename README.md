@@ -17,7 +17,7 @@ GitHub: mitrasuvajit2-dev
 
 <a href="https://github.com/mitrasuvajit2-dev"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 <a href="https://www.linkedin.com/in/suvajit-mitra-24557b428/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://www.instagram.com/myself_suva_2007"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+
 
 </div>
 
@@ -161,7 +161,7 @@ Another portfolio/web-development project where I experiment with website design
 
 <a href="https://github.com/mitrasuvajit2-dev"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile" /></a>
 <a href="https://www.linkedin.com/in/suvajit-mitra-24557b428/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" /></a>
-<a href="https://www.instagram.com/myself_suva_2007"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram profile" /></a>
+
 
 <br/><br/>
 
