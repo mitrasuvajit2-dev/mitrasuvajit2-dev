@@ -5,8 +5,6 @@ GitHub: mitrasuvajit2-dev
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:020617,50:1e1b4b,100:0ea5e9&text=Suvajit%20Mitra&fontSize=55&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20Cyber%20Security%20Student%20%7C%20Developer&descAlignY=58&descSize=17&animation=fadeIn" width="100%" alt="Suvajit Mitra profile banner" />
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&lines=Hello%2C+World!+I'm+Suvajit+Mitra;AI+%26+Cyber+Security+Student;Aspiring+Software+Developer;Exploring+AI%2C+Code+%26+Cyber+Security;Building+Ideas+Into+Reality" alt="Animated introduction" />
 
 <br/>
