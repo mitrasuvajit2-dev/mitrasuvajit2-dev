@@ -89,11 +89,6 @@ I'm passionate about technology, programming, and understanding how software wor
 
 ## 🚀 Featured Projects
 
-### 🔎 [PHANTOM — Experimental Search Engine](https://github.com/mitrasuvajit2-dev/PHANTOM)
-
-An experimental search-engine project exploring search functionality, web technologies, and user experience.
-
-**Focus:** Search experience · Web application development · Experimentation
 
 ### 🌐 [Portfolio — Personal Website](https://github.com/mitrasuvajit2-dev/Portfolio)
 
